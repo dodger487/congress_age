@@ -1,0 +1,5 @@
+*.csv
+*.json
+*.yaml
+__pycache__/
+.DS_Store
